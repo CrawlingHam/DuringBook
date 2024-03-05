@@ -12,3 +12,4 @@
 /home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.pdb
 /home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.genruntimeconfig.cache
 /home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/ref/MenuSelectionUI.dll
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.sourcelink.json

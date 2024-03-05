@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MenuSelectionUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81181032c24ad783e89332f18df581827ad72355")]
 [assembly: System.Reflection.AssemblyProductAttribute("MenuSelectionUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MenuSelectionUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
