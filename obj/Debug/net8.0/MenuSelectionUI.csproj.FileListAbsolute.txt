@@ -1,0 +1,14 @@
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.AssemblyInfoInputs.cache
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.AssemblyInfo.cs
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.csproj.CoreCompileInputs.cache
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/bin/Debug/net8.0/MenuSelectionUI
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/bin/Debug/net8.0/MenuSelectionUI.deps.json
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/bin/Debug/net8.0/MenuSelectionUI.runtimeconfig.json
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/bin/Debug/net8.0/MenuSelectionUI.dll
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/bin/Debug/net8.0/MenuSelectionUI.pdb
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.dll
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/refint/MenuSelectionUI.dll
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.pdb
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/MenuSelectionUI.genruntimeconfig.cache
+/home/grand_governor/c#/DuringBook/MenuSelectionUI/obj/Debug/net8.0/ref/MenuSelectionUI.dll
