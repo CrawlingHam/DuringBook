@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameManagerLibrary/1.0.0": {
+        "dependencies": {
+          "MenuManagerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GameManagerLibrary.dll": {}
+        }
+      },
+      "MenuManagerLibrary/1.0.0": {
+        "runtime": {
+          "MenuManagerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameManagerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuManagerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

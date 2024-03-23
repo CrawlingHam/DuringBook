@@ -1,0 +1,12 @@
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/bin/Debug/net8.0/MenuManagerLibrary.deps.json
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/bin/Debug/net8.0/MenuManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/bin/Debug/net8.0/MenuManagerLibrary.pdb
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/MenuManagerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/MenuManagerLibrary.AssemblyInfoInputs.cache
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/MenuManagerLibrary.AssemblyInfo.cs
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/MenuManagerLibrary.csproj.CoreCompileInputs.cache
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/MenuManagerLibrary.sourcelink.json
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/MenuManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/refint/MenuManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/MenuManagerLibrary.pdb
+/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/obj/Debug/net8.0/ref/MenuManagerLibrary.dll
