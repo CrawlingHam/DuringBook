@@ -1,0 +1,16 @@
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/bin/Debug/net8.0/GameManagerLibrary.deps.json
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/bin/Debug/net8.0/GameManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/bin/Debug/net8.0/GameManagerLibrary.pdb
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/bin/Debug/net8.0/MenuManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/bin/Debug/net8.0/MenuManagerLibrary.pdb
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.csproj.AssemblyReference.cache
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.AssemblyInfoInputs.cache
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.AssemblyInfo.cs
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.csproj.CoreCompileInputs.cache
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.sourcelink.json
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameMana.FD1CE956.Up2Date
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/refint/GameManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.pdb
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/ref/GameManagerLibrary.dll

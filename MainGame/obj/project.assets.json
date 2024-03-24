@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GameManagerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MenuManagerLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameManagerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameManagerLibrary.dll": {}
+        }
+      },
+      "MenuManagerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MenuManagerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MenuManagerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameManagerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../GameLibraries/GameManagerLibrary/GameManagerLibrary.csproj",
+      "msbuildProject": "../GameLibraries/GameManagerLibrary/GameManagerLibrary.csproj"
+    },
+    "MenuManagerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../GameLibraries/MenuManagerLibrary/MenuManagerLibrary.csproj",
+      "msbuildProject": "../GameLibraries/MenuManagerLibrary/MenuManagerLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GameManagerLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/codespace/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/workspaces/DuringBook/MainGame/MainGame.csproj",
+      "projectName": "MainGame",
+      "projectPath": "/workspaces/DuringBook/MainGame/MainGame.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/DuringBook/MainGame/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/workspaces/DuringBook/GameLibraries/GameManagerLibrary/GameManagerLibrary.csproj": {
+              "projectPath": "/workspaces/DuringBook/GameLibraries/GameManagerLibrary/GameManagerLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
