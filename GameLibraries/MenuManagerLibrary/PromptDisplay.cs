@@ -4,7 +4,7 @@ public partial class Display
 {
     public string DisplayPrompt()
     {
-        string prompt = (@"
+        string prompt = @"
 
           /$$$$$$                                    /$$ /$$                                                   
          /$$__  $$                                  | $$|__/                           /$$   /$$                        
@@ -21,7 +21,7 @@ public partial class Display
                                     Welcome. What would you like to do?
                             - Contols - Up-Arrow and Down-Arrow to move between options
                             - To select - press Enter)
-        ");
+        ";
         return prompt;
     }
 }

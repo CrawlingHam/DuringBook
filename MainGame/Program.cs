@@ -7,8 +7,7 @@ namespace MainGame
         static void Main(string[] args)
         {
             // Start the game
-            Game newGame = new Game();
-            newGame.Start();
+            Game.Start();
         }
     }
 }

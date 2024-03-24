@@ -3,12 +3,13 @@ namespace MenuManagerLibrary;
 
 public class Menu
 {
-    private MenuProperties newMenuProperties = new MenuProperties(); // Instantiate properties
-    private Display newDisplay = new Display();   // Instantiate a new display
+    //private MenuProperties newMenuProperties = new MenuProperties(); // Instantiate properties
+    //private Display newDisplay = new Display();   // Instantiate a new display
+
     public void Run()
     {
         
-        Write("hehe");
         
     }
 }
+// DELETE THIS FILE

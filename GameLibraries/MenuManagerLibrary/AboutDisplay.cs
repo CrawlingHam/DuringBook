@@ -2,9 +2,9 @@ using static System.Console;
 namespace MenuManagerLibrary;
 public partial class Display
 {
-    public void DisplayAbout()
+    public string DisplayAbout()
     {
-        WriteLine(@"
+        string aboutLogo = @"
              ▄████████ ▀█████████▄   ▄██████▄  ███    █▄      ███     
             ███    ███   ███    ███ ███    ███ ███    ███ ▀█████████▄
             ███    ███   ███    ███ ███ ░  ███ ███    ███ ░  ▀███▀▀██
@@ -17,6 +17,7 @@ public partial class Display
             ░ ░ ▒    ░    ░ ░ ░ ░ ▒   ░ ░ ░ ░   ░  ▒░ ▒  ▒░   ▒ ░▒░
             ░  ░ ░  ░    ░  ░ ░     ░  ░  ░   ▒  ░    ░    ▒ ░
             ░              ░            ░           ░        ░
-        ");
+        ";
+        return aboutLogo;
     }
 }
