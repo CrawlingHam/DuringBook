@@ -2,9 +2,9 @@ using static System.Console;
 namespace MenuManagerLibrary;
 public partial class Display
 {
-    public void DisplayPrompt()
+    public string DisplayPrompt()
     {
-        WriteLine(@"
+        string prompt = (@"
 
           /$$$$$$                                    /$$ /$$                                                   
          /$$__  $$                                  | $$|__/                           /$$   /$$                        
@@ -22,5 +22,6 @@ public partial class Display
                             - Contols - Up-Arrow and Down-Arrow to move between options
                             - To select - press Enter)
         ");
+        return prompt;
     }
 }

@@ -6,7 +6,7 @@ public class Game
 {
     public void Start()
     {
-        Menu newMenu = new Menu(); // Instantiate a new menu
-        newMenu.Run(); // Run the menu
+        MenuUpdater newUpdater = new MenuUpdater(); // Instantiate a new menu
+        newUpdater.UpdateMenu(); // Run the menu
     }
 }

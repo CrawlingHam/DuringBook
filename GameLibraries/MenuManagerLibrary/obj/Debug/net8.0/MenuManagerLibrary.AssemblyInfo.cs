@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MenuManagerLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+872ece921af72398c65cb56bd977205c3ea7cf5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9e3bd324bb5b556de8eaa502034b821bfacb72b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MenuManagerLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MenuManagerLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
