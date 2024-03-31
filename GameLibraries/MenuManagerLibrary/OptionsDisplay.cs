@@ -13,8 +13,8 @@ public partial class Display
              if (i == selectedIndex)
             {
                 prefix = "➜";
-                ForegroundColor = ConsoleColor.Black;
-                BackgroundColor = ConsoleColor.White;
+                //ForegroundColor = ConsoleColor.Black;
+                //BackgroundColor = ConsoleColor.White;
                 
             }
             // If the current index ISN'T the selected index
@@ -22,10 +22,10 @@ public partial class Display
             else
             {
                 prefix = " ";
-                ResetColor();
+                //ResetColor();
             }
             WriteLine($"{prefix} << {currentOption} >>");
-            Console.ResetColor();
+            //Console.ResetColor();
         }
     }
 }
