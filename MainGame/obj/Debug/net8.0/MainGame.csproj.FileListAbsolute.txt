@@ -3,7 +3,6 @@
 /workspaces/DuringBook/MainGame/obj/Debug/net8.0/MainGame.AssemblyInfoInputs.cache
 /workspaces/DuringBook/MainGame/obj/Debug/net8.0/MainGame.AssemblyInfo.cs
 /workspaces/DuringBook/MainGame/obj/Debug/net8.0/MainGame.csproj.CoreCompileInputs.cache
-/workspaces/DuringBook/MainGame/obj/Debug/net8.0/MainGame.sourcelink.json
 /workspaces/DuringBook/MainGame/bin/Debug/net8.0/MainGame
 /workspaces/DuringBook/MainGame/bin/Debug/net8.0/MainGame.deps.json
 /workspaces/DuringBook/MainGame/bin/Debug/net8.0/MainGame.runtimeconfig.json
