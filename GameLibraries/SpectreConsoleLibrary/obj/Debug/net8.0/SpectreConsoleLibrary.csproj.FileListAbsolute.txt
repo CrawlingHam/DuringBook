@@ -1,0 +1,13 @@
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/bin/Debug/net8.0/SpectreConsoleLibrary.deps.json
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/bin/Debug/net8.0/SpectreConsoleLibrary.dll
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/bin/Debug/net8.0/SpectreConsoleLibrary.pdb
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.csproj.AssemblyReference.cache
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.AssemblyInfoInputs.cache
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.AssemblyInfo.cs
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.csproj.CoreCompileInputs.cache
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.sourcelink.json
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.dll
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/refint/SpectreConsoleLibrary.dll
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/SpectreConsoleLibrary.pdb
+/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/Debug/net8.0/ref/SpectreConsoleLibrary.dll

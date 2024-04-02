@@ -19,3 +19,10 @@
 /workspaces/DuringBook/MainGame/obj/Debug/net8.0/MainGame.pdb
 /workspaces/DuringBook/MainGame/obj/Debug/net8.0/MainGame.genruntimeconfig.cache
 /workspaces/DuringBook/MainGame/obj/Debug/net8.0/ref/MainGame.dll
+/workspaces/DuringBook/MainGame/bin/Debug/net8.0/Spectre.Console.dll
+/workspaces/DuringBook/MainGame/bin/Debug/net8.0/Spectre.Console.Cli.dll
+/workspaces/DuringBook/MainGame/bin/Debug/net8.0/de/Spectre.Console.Cli.resources.dll
+/workspaces/DuringBook/MainGame/bin/Debug/net8.0/fr/Spectre.Console.Cli.resources.dll
+/workspaces/DuringBook/MainGame/bin/Debug/net8.0/sv/Spectre.Console.Cli.resources.dll
+/workspaces/DuringBook/MainGame/bin/Debug/net8.0/SpectreConsoleLibrary.dll
+/workspaces/DuringBook/MainGame/bin/Debug/net8.0/SpectreConsoleLibrary.pdb

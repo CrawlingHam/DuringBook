@@ -1,5 +1,6 @@
 ﻿using static System.Console;
 using MenuManagerLibrary;
+using SpectreConsoleLibrary;
 namespace GameManagerLibrary;
 public partial class Game
 {
@@ -17,6 +18,7 @@ public partial class Game
         switch ( selectedIndex )
         {
             case 0: // Start the game if 'Start' is selected
+                SpectreConsoleStarter.StartSpectreConsole();
                 StartGame();
                 break;
 

@@ -14,3 +14,5 @@
 /workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/refint/GameManagerLibrary.dll
 /workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/GameManagerLibrary.pdb
 /workspaces/DuringBook/GameLibraries/GameManagerLibrary/obj/Debug/net8.0/ref/GameManagerLibrary.dll
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/bin/Debug/net8.0/SpectreConsoleLibrary.dll
+/workspaces/DuringBook/GameLibraries/GameManagerLibrary/bin/Debug/net8.0/SpectreConsoleLibrary.pdb

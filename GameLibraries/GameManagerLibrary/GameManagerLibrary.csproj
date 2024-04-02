@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MenuManagerLibrary\MenuManagerLibrary.csproj" />
+    <ProjectReference Include="..\SpectreConsoleLibrary\SpectreConsoleLibrary.csproj" />
   </ItemGroup> 
   
   <PropertyGroup>

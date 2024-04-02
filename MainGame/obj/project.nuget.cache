@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "dUAWV0OwuoNsVhw2s9PX7qHbKneXnCsPod4wdFXXudpzERU97G8ACJxBLQvvfeAiCuV21wtIKOlPtc+Q+ehQ2w==",
+  "dgSpecHash": "dRRGIHQakmUlaCnRXPVBNohTO7KB8fs3gHLNXcTQOvmKwl95DJe/R6jRLD585pXbywKNzMZ4IPjidtgMs8ug5A==",
   "success": true,
   "projectFilePath": "/workspaces/DuringBook/MainGame/MainGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/spectre.console.cli/0.48.0/spectre.console.cli.0.48.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
   "logs": []
 }

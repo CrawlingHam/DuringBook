@@ -28,6 +28,9 @@
             "projectReferences": {
               "/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/MenuManagerLibrary.csproj": {
                 "projectPath": "/workspaces/DuringBook/GameLibraries/MenuManagerLibrary/MenuManagerLibrary.csproj"
+              },
+              "/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/SpectreConsoleLibrary.csproj": {
+                "projectPath": "/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/SpectreConsoleLibrary.csproj"
               }
             }
           }
@@ -104,6 +107,74 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/SpectreConsoleLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/SpectreConsoleLibrary.csproj",
+        "projectName": "SpectreConsoleLibrary",
+        "projectPath": "/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/SpectreConsoleLibrary.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/DuringBook/GameLibraries/SpectreConsoleLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.48.0, )"
+            },
+            "Spectre.Console.Cli": {
+              "target": "Package",
+              "version": "[0.48.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
